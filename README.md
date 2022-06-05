@@ -1,5 +1,7 @@
 # JS_Requests_async_JSON
 
+https://blog.logrocket.com/understanding-asynchronous-javascript/
+
 Promis это объект, который красиво организовывает  асинхронный код. Мы подписываемся на асинхронный код
 
 ## Promis   
