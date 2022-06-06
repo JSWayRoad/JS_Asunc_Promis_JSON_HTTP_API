@@ -1,3 +1,11 @@
+**REST**
+
+https://www.techtarget.com/searchapparchitecture/definition/REST-REpresentational-State-Transfer  
+https://en.wikipedia.org/wiki/Representational_state_transfer  
+https://developer.mozilla.org/en-US/docs/Glossary/REST  
+
+REST (REpresentational State Transfer) is an architectural style for developing web services. 
+
 # JS_Requests_async_JSON
 
 https://blog.logrocket.com/understanding-asynchronous-javascript/
@@ -36,7 +44,15 @@ function loadScript(src) {
 async & await (и обработка ошибок)    
 https://learn.javascript.ru/async-await  
 
-**Что такое AJAX?**  
+**Что такое AJAX?**
+
+https://developer.mozilla.org/en-US/docs/Glossary/AJAX  
+
+https://developer.mozilla.org/en-US/docs/Glossary/XML  
+https://developer.mozilla.org/en-US/docs/Glossary/XHR_(XMLHttpRequest)    
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
 AJAX (аббревиатура от «Asynchronous Javascript And Xml») – технология обращения к серверу без перезагрузки страницы.  
 https://habr.com/ru/post/14246/  
 Приложения работают быстрее и становятся более отзывчивыми к действиям пользователей.  
