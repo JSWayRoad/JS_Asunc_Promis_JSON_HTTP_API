@@ -88,15 +88,8 @@ https://learn.javascript.ru/json
 ## localstorage,sessionstorage,Куки, document.cookie  
  
  https://www.youtube.com/watch?v=nyIpDs2DJ_c
- 
-## HTTP - это 
- 
- https://developer.mozilla.org/ru/docs/Web/HTTP/Overview  
- https://habr.com/ru/post/215117/  
- с помощью протокола HTTP — обмен данными между пользовательским приложением, осуществляющим доступ к веб-ресурсам (обычно это веб-браузер) и веб-сервером.  
- https://developer.mozilla.org/ru/docs/Web/HTTP/Methods
- 
- 
+
+
  **Геттеры и сеттеры?**  
 https://learn.javascript.ru/property-accessors
 свойства-аксессоры (accessor properties). По своей сути это функции, которые используются для присвоения и получения значения, но во внешнем коде они выглядят как обычные свойства объекта.  
